@@ -1,0 +1,84 @@
+Question 1: What is the total amount of money spent on each sport ?
+FOOTBALL : $650
+	TENNIS : $400
+	SOCCER : $425
+	BASKETBALL : $275
+
+	Question 2 : What is the total amount of money spent at each of the dormitories ?
+	BT : $300
+	DG : $250
+	FT : $250
+	TU : $400
+	OP : $400
+	LN : $150
+
+	Question 3 : What is the total amount of money spent on each of the sports at each of the dormitories ?
+	FOOTBALL in BT : $100
+	TENNIS in BT : $100
+	SOCCER in BT : $50
+	BASKETBALL in BT : $50
+	FOOTBALL in DG : $100
+	TENNIS in DG : $50
+	SOCCER in DG : $100
+	BASKETBALL in DG : $0
+	FOOTBALL in FT : $100
+	TENNIS in FT : $100
+	SOCCER in FT : $50
+	BASKETBALL in FT : $0
+	FOOTBALL in TU : $200
+	TENNIS in TU : $50
+	SOCCER in TU : $0
+	BASKETBALL in TU : $150
+	FOOTBALL in OP : $100
+	TENNIS in OP : $100
+	SOCCER in OP : $125
+	BASKETBALL in OP : $75
+	FOOTBALL in LN : $50
+	TENNIS in LN : $0
+	SOCCER in LN : $100
+	BASKETBALL in LN : $0
+
+	Question 4 : What is the total number students participating in each of the sports ?
+	FOOTBALL : 13 students
+	TENNIS : 8 students
+	SOCCER : 9 students
+	BASKETBALL : 6 students
+
+	Question 5 : What is the total number students participating at each of the dormitories ?
+	BT : 5 students
+	DG : 3 students
+	FT : 3 students
+	TU : 5 students
+	OP : 6 students
+	LN : 3 students
+
+	Question 6 : What is the total number students participating in each of the sports at each of the dormitories ?
+	FOOTBALL in BT : 2 students
+	TENNIS in BT : 2 students
+	SOCCER in BT : 1 students
+	BASKETBALL in BT : 1 students
+
+	FOOTBALL in DG : 2 students
+	TENNIS in DG : 1 students
+	SOCCER in DG : 2 students
+	BASKETBALL in DG : 0 students
+
+	FOOTBALL in FT : 2 students
+	TENNIS in FT : 2 students
+	SOCCER in FT : 1 students
+	BASKETBALL in FT : 0 students
+
+	FOOTBALL in TU : 4 students
+	TENNIS in TU : 1 students
+	SOCCER in TU : 0 students
+	BASKETBALL in TU : 3 students
+
+	FOOTBALL in OP : 2 students
+	TENNIS in OP : 2 students
+	SOCCER in OP : 3 students
+	BASKETBALL in OP : 2 students
+
+	FOOTBALL in LN : 1 students
+	TENNIS in LN : 0 students
+	SOCCER in LN : 2 students
+	BASKETBALL in LN : 0 students
